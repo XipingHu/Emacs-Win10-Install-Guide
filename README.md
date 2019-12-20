@@ -26,7 +26,7 @@
 
 我的预览功能需要配合Sumatra PDF来进行预览
 
-[Sumatra PDF下载](https://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2-64-install.exe)
+[按住Ctrl然后点击下载Sumatra PDF安装程序](https://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2-64-install.exe)
 
 下载完成后`C-c C-v`然后选择Sumatra PDF来预览才能正常运作
 
