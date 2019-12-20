@@ -28,5 +28,5 @@
 
 [按住Ctrl然后点击下载Sumatra PDF安装程序](https://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2-64-install.exe)
 
-下载完成后`C-c C-v`然后选择Sumatra PDF来预览才能正常运作
+下载完成后若使用`C-c C-v`的预览功能，需选择Sumatra PDF来预览才能正常运作
 
