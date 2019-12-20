@@ -20,6 +20,6 @@
 
 简便方法：将'C:\Users\%USERNAME%\AppData\Roaming\.emacs.d'输入到Windows资源管理器的地址栏，回车
 
-![](pic/address.png)
+![](address.png)
 
 把我GitHub上的Windows下Emacs配置文件下载，直接Download Zip，之后解压
