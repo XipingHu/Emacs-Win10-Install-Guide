@@ -22,7 +22,7 @@
 
 ![Windows资源管理器地址栏](address.png)
 
-把我GitHub上的Windows下Emacs配置文件下载，直接Download Zip，之后解压
+把[我GitHub上的Windows下Emacs配置文件](https://github.com/XipingHu/Emacs-LaTeX-for-Win10)下载，直接Download Zip，之后解压，把`.emacs.d-master`下所有文件放到上述目录，并检查上一级目录`C:\Users\<你的用户名>\AppData\Roaming`中有没有`.emacs`，如果有，就删除。
 
 我的预览功能需要配合Sumatra PDF来进行预览
 
