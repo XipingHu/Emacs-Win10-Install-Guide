@@ -35,3 +35,6 @@
 
 下载完成后若使用`C-c C-v`的预览功能，需选择Sumatra PDF来预览才能正常运作
 
+## 记得加环境变量`c:/Program Files/SumatraPDF`到 `PATH`
+Windows搜索框输入`env`编辑环境变量
+
