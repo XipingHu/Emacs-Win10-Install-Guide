@@ -23,3 +23,10 @@
 ![Windows资源管理器地址栏](address.png)
 
 把我GitHub上的Windows下Emacs配置文件下载，直接Download Zip，之后解压
+
+我的预览功能需要配合Sumatra PDF来进行预览
+
+[Sumatra PDF下载](https://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2-64-install.exe)
+
+下载完成后`C-c C-v`然后选择Sumatra PDF来预览才能正常运作
+
