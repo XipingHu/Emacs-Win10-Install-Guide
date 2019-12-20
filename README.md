@@ -16,10 +16,10 @@
 
 先运行Emacs然后退出
 
-之后进入'C:\Users\<你的用户名>\AppData\Roaming\.emacs.d'
+之后进入`C:\Users\<你的用户名>\AppData\Roaming\.emacs.d`
 
-简便方法：将'C:\Users\%USERNAME%\AppData\Roaming\.emacs.d'输入到Windows资源管理器的地址栏，回车
+简便方法：将`C:\Users\%USERNAME%\AppData\Roaming\.emacs.d`输入到Windows资源管理器的地址栏，回车
 
-![](address.png)
+![Windows资源管理器地址栏](address.png)
 
 把我GitHub上的Windows下Emacs配置文件下载，直接Download Zip，之后解压
