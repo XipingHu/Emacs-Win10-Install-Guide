@@ -37,11 +37,11 @@
 
 **记得加环境变量`c:/Program Files/SumatraPDF`到 `PATH`**
 
-我的拼写检查功能需要安装aspell
+我的拼写检查功能需要安装hunspell
 
 [安装Msys2](https://github.com/XipingHu/Msys2-Win10-Install-Guide)，之后再Msys2中执行:
 
-`pacman -S mingw64/mingw-w64-x86_64-aspell mingw64/mingw-w64-x86_64-aspell-en`
+`pacman -S  mingw-w64-x86_64-hunspell mingw-w64-x86_64-hunspell-en`
 
 **注意：如果你的Msys2没有安装在默认的C盘，或者不是64位，请编辑Emacs配置文件里的init.el**
 
