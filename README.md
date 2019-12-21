@@ -43,5 +43,7 @@
 
 `pacman -S mingw64/mingw-w64-x86_64-aspell mingw64/mingw-w64-x86_64-aspell-en`
 
+**注意：如果你的Msys2没有安装在默认的C盘，或者不是64位，请编辑Emacs配置文件里的init.el**
+
 Windows搜索框输入`env`编辑环境变量
 
