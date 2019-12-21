@@ -35,6 +35,13 @@
 
 下载完成后若使用`C-c C-v`的预览功能，需选择Sumatra PDF来预览才能正常运作
 
-## 记得加环境变量`c:/Program Files/SumatraPDF`到 `PATH`
+**记得加环境变量`c:/Program Files/SumatraPDF`到 `PATH`**
+
+我的拼写检查功能需要安装aspell
+
+安装Msys2，之后再Msys2中执行:
+
+`pacman -S mingw64/mingw-w64-x86_64-aspell mingw64/mingw-w64-x86_64-aspell-en`
+
 Windows搜索框输入`env`编辑环境变量
 
