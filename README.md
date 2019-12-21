@@ -39,7 +39,7 @@
 
 我的拼写检查功能需要安装aspell
 
-安装Msys2，之后再Msys2中执行:
+[安装Msys2](https://github.com/XipingHu/Msys2-Win10-Install-Guide)，之后再Msys2中执行:
 
 `pacman -S mingw64/mingw-w64-x86_64-aspell mingw64/mingw-w64-x86_64-aspell-en`
 
