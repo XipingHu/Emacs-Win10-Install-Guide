@@ -1,8 +1,5 @@
 # Emacs 26.3 Win10 64位 安装指南
 
-
-## 可以下载Releases里的懒人包，里面有下面所提到的所有文件
-
 # 从GNU的FTP服务器下载Emacs
 
 [按住Ctrl点击这里下载](http://gnu.mirrors.hoobly.com/emacs/windows/emacs-26/emacs-26.3-x86_64.zip)
