@@ -36,7 +36,7 @@
 
 我的拼写检查功能需要安装hunspell
 
-[安装Msys2](https://github.com/XipingHu/Msys2-Win10-Install-Guide)，之后再Msys2中执行:
+[安装Msys2](https://github.com/XipingHu/Msys2-Win10-Install-Guide)，之后在Msys2中执行:
 
 `pacman -S  mingw-w64-x86_64-hunspell mingw-w64-x86_64-hunspell-en`
 
