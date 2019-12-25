@@ -44,3 +44,6 @@
 
 Windows搜索框输入`env`编辑环境变量
 
+我的字体配置需要安装Hack字体
+
+[点击直达](https://github.com/source-foundry/Hack-windows-installer)
